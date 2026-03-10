@@ -1,2 +1,2 @@
 # HuffmanCompression
-A program used to explore the Huffman Compression algorithm
+A program used to explore the Huffman Compression algorithm.
